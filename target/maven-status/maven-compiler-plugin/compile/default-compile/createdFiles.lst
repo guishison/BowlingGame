@@ -1,0 +1,8 @@
+edu\grupo2\Game\Line.class
+edu\grupo2\Game\DisplayGame.class
+edu\grupo2\Game\Main.class
+edu\grupo2\test\GameTest.class
+edu\grupo2\Game\DisplayInConsole.class
+edu\grupo2\Game\InitiateFromFile.class
+edu\grupo2\Game\InitiateGame.class
+edu\grupo2\Game\Game.class
